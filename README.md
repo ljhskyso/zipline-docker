@@ -1,6 +1,8 @@
 # zipline-docker
 Docker image for zipline with python 2.7
 
+The image is available on Docker Hub @ https://hub.docker.com/r/ljhskyso/zipline/
+
 ## commands
 
 Show all available MAKE commands
